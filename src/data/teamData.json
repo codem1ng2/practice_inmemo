@@ -1,0 +1,19 @@
+{
+    "team": {
+      "name": "애는착해",
+      "teamId": "aeneun-chakhae",
+      "location": "서울 강남구",
+      "stadium": "서울 강남 도곡에프씨(중대부고 운동장)",
+      "meetingTime": "주말 저녁",
+      "averageAge": 35,
+      "members": [
+        { "id": 1, "name": "김정섭", "role": "루키" },
+        { "id": 2, "name": "백준규", "role": "루키" },
+        { "id": 3, "name": "이초인", "role": "운영진" }
+      ],
+      "level": "비기너1",
+      "schedule": []
+    },
+    "userStatus": "member"
+  }
+  
