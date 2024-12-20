@@ -101,7 +101,7 @@ const Navbar = () => {
           </div>
 
           {/* 아이콘들 */}
-          <a href="/mypage/myplab/">
+          <a href="/team/dashboard">
             <img
               src="https://d31wz4d3hgve8q.cloudfront.net/static/img/ic_club.svg"
               alt="Shield"
