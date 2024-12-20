@@ -1,0 +1,2 @@
+use anch;
+show tables;
