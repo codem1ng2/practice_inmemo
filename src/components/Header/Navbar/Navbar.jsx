@@ -100,6 +100,7 @@ const Navbar = () => {
             )}
           </div>
 
+
           {/* 아이콘들 */}
           <a href="/team/dashboard">
             <img
