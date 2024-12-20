@@ -1,0 +1,87 @@
+{
+    "userStatus": "teamLeader", 
+    "teams": [
+      {
+        "teamId": "aeneun-chakhae",
+        "name": "애는착해",
+        "role": "운영진",
+        "members": 4,
+        "code": "aeneun-chakhae",
+        "logo": "https://via.placeholder.com/150",
+        "schedule": {
+          "days": ["월", "수", "금"],
+          "times": ["아침 6~10시", "저녁 18~24시"]
+        },
+        "ageGender": {
+          "ageGroups": {
+            "10대": "N",
+            "20대": "Y",
+            "30대": "Y",
+            "40대": "N",
+            "50대": "N",
+            "60대 이상": "N"
+          },
+          "gender": {
+            "남자": "Y",
+            "여자": "N",
+            "남녀 모두": "N"
+          }
+        }
+      },
+      {
+        "teamId": "great-team",
+        "name": "위대한 팀",
+        "role": "멤버",
+        "members": 7,
+        "code": "great-team",
+        "logo": "https://via.placeholder.com/150",
+        "schedule": {
+          "days": ["화", "목", "토"],
+          "times": ["낮 10~18시"]
+        },
+        "ageGender": {
+          "ageGroups": {
+            "10대": "N",
+            "20대": "N",
+            "30대": "Y",
+            "40대": "Y",
+            "50대": "N",
+            "60대 이상": "N"
+          },
+          "gender": {
+            "남자": "N",
+            "여자": "Y",
+            "남녀 모두": "N"
+          }
+        }
+      },
+      {
+        "teamId": "legend-team",
+        "name": "레전드 팀",
+        "role": "운영진",
+        "members": 5,
+        "code": "legend-team",
+        "logo": "https://via.placeholder.com/150",
+        "schedule": {
+          "days": ["월", "화", "수"],
+          "times": ["심야 24~6시"]
+        },
+        "ageGender": {
+          "ageGroups": {
+            "10대": "N",
+            "20대": "N",
+            "30대": "N",
+            "40대": "Y",
+            "50대": "Y",
+            "60대 이상": "N"
+          },
+          "gender": {
+            "남자": "Y",
+            "여자": "N",
+            "남녀 모두": "N"
+          }
+        }
+      }
+    ]
+  }
+  
